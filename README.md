@@ -24,7 +24,3 @@ to make a set and clear them out until you have fully completed the deck!
 - I struggled getting the columns to auto size 
 - I struggled to animate things because too much code was in my model rather than my view model initially
 - I feel like some things are a little too redundant or hard coded
-
-### Overall Thoughts
-
-I feel like with the amount of work I put into this, I deserve full points or at least an A.  I learned a LOT not only about swift through this project but about clean coding practices in general.  A lot of coding classes I feel like I am just going through the motions, happy to have something to guide me to practice more but through projects like this, I feel like I am actually really improving fast!
